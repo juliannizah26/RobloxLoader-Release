@@ -1,0 +1,2 @@
+latest_version=1.1
+download_url=URL_ATAU_GOOGLE_DRIVE_ID
