@@ -1,45 +1,24 @@
-latest_version=1.1
-download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.1/update.zip
-# SteamPlus+ Changelog
+latest_version=1.0
+download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.0/update.zip
+# Roblox Loader Changelog
 
-## Version 1.5 - (April 30, 2025)
-- Fixed minor bug
-
-## Version 1.4 - (April 10, 2025)
-- No changes to features or core functionalities
-- Ensures faster and more stable update delivery
-
-## Version 1.3 - (April 10, 2025)
-- Steam login is now more stable, even with slow connections
-- Fixed login errors where it failed even with correct account info
-- Added wait time to make sure Steam is fully ready before launching the game
-- Added -noverify to speed up Steam login by skipping file checks
-- Added -silent to hide Steam window during startup
-- Clearer status messages during login and game launch
-- Cleaner logs for easier troubleshooting
-
-## Version 1.2 - (April 05, 2025)
-- Improved settings management system
-- Added auto-migration for .ini file changes
-- Better handling of configuration files
-- Fixed settings case sensitivity issues
-- Removed deprecated functions
- 
-## Version 1.1 - (April 04, 2025)
-- Added auto-update feature
-- Implemented secure update verification
-- Added changelog display system
-- Improved error handling during login
-- Fixed minor UI bugs in settings panel
-- Improved update checking reliability
-- Optimized Steam process detection
- 
-## Version 1.0 - (April 03, 2025)
-- Basic security features
-- Basic Steam login functionality
-- Support for both Original and OnlineFix modes
-- Shared accounts management
-- Settings configuration panel
-- Console output for debugging
+## Version 1.0 - (April 18, 2025)
+- Automatic Symlink Management: Creates symbolic links for Program Files and AppData
+- Admin Privilege Check: Ensures the app runs with administrator rights
+- Modern User Interface: Built with CustomTkinter for a sleek, modern look
+- Logging System: Displays real-time operation status
+- Auto Update Check: Automatically checks for updates at startup
+- Download Manager: Supports downloads from Google Drive and direct URLs
+- Progress Bar: Displays download progress
+- Auto Install: Automatically installs updates after download
 
 [!] Note: Updates are automatically checked on startup
+
+### Requirements:
+- Python 3.7+
+- Windows 10/11
+- Library:
+  - customtkinter
+  - Pillow
+  - packaging
+  - requests
