@@ -1,6 +1,13 @@
-latest_version=1.0
+latest_version=1.1
 download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.0/update.zip
 # Roblox Loader Changelog
+
+## Version 1.1 - (April 18, 2025)
+- Enhanced Server Mode: Combines auto-update and registry backup features
+- Added WebView2 Runtime detection with browser fallback
+- New batch tools: z_RobloxCleanup.bat, z_RobloxClient.bat, z_RobloxInit.bat, z_RobloxServer.bat
+- Improved registry cleanup with force delete option
+- Added version check against Roblox's API
 
 ## Version 1.0 - (April 18, 2025)
 - Automatic Symlink Management: Creates symbolic links for Program Files and AppData
@@ -13,12 +20,3 @@ download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/dow
 - Auto Install: Automatically installs updates after download
 
 [!] Note: Updates are automatically checked on startup
-
-### Requirements:
-- Python 3.7+
-- Windows 10/11
-- Library:
-  - customtkinter
-  - Pillow
-  - packaging
-  - requests
