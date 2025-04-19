@@ -1,6 +1,15 @@
-latest_version=1.2
-download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.2/update.zip
+latest_version=1.3
+download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.3/update.zip
 # Roblox Loader Changelog
+
+## Version 1.3 - (April 19, 2025)
+- Added `browser_path.txt` configuration file
+- Supports: Official launcher, default browser, or custom browser
+- Removed WebView2 dependency requirement
+- More reliable browser detection
+- Better fallback mechanisms
+- Clear logging of launch method
+- Automatic fallback to default browser if custom path invalid
 
 ## Version 1.2 - (April 19, 2025)
 - Enhanced cleanup system now removes both symbolic links AND residual folders
