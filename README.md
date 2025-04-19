@@ -20,7 +20,7 @@ Jalankan `z_RobloxCleanup.bat`
 
 📥 Jika Roblox Belum Terpasang:
 1. Download Roblox dari situs resmi.
-2. Atau, pindahkan folder Roblox yang sudah terinstal ke struktur berikut:
+2. Pindahkan folder Roblox yang sudah terinstal ke struktur berikut:
 
 Contoh pemindahan manual:
 - Dari: `C:\Program Files (x86)\Roblox`  
