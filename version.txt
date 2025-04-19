@@ -1,6 +1,13 @@
-latest_version=1.1
-download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.1/update.zip
+latest_version=1.2
+download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.2/update.zip
 # Roblox Loader Changelog
+
+## Version 1.2 - (April 19, 2025)
+- Added version folder cleanup feature: Automatically removes old Roblox version folders after update
+- Improved version detection: Better handling of version timestamps and folder structures
+- Enhanced error handling: More robust cleanup process with detailed logging
+- Added safety checks: Always keeps the latest version and handles in-use files gracefully
+- Batch tool updates: Added cleanup functionality to server mode batch file
 
 ## Version 1.1 - (April 18, 2025)
 - Enhanced Server Mode: Combines auto-update and registry backup features
