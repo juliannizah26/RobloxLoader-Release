@@ -1,4 +1,3 @@
-===================================================
 Roblox Loader  
 Created by: JulianNizah  
 Email: juliannizah.26@gmail.com  
