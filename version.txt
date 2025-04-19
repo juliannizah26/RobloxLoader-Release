@@ -3,11 +3,17 @@ download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/dow
 # Roblox Loader Changelog
 
 ## Version 1.2 - (April 19, 2025)
-- Added version folder cleanup feature: Automatically removes old Roblox version folders after update
-- Improved version detection: Better handling of version timestamps and folder structures
-- Enhanced error handling: More robust cleanup process with detailed logging
-- Added safety checks: Always keeps the latest version and handles in-use files gracefully
-- Batch tool updates: Added cleanup functionality to server mode batch file
+- Enhanced cleanup system now removes both symbolic links AND residual folders
+- Added comprehensive folder removal with shutil.rmtree()
+- Improved error handling for stubborn files/folders with better logging
+- Automatic removal of old Roblox version folders after updates
+- Better version detection with improved timestamp handling
+- Safety checks to always preserve the latest version
+- More thorough registry key removal with better error reporting
+- Added force removal options for both files and registry entries
+- Enhanced server mode batch file with improved cleanup functionality
+- Added 7-Zip support for faster, more reliable updates
+- Better build artifact cleanup and error handling
 
 ## Version 1.1 - (April 18, 2025)
 - Enhanced Server Mode: Combines auto-update and registry backup features
