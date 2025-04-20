@@ -1,5 +1,5 @@
 latest_version=1.4
-download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.3/update.zip
+download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.4/update.zip
 # Roblox Loader Changelog
 
 ## Version 1.4 - (April 20, 2025)
