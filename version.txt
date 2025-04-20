@@ -1,6 +1,9 @@
-latest_version=1.3
+latest_version=1.4
 download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.3/update.zip
 # Roblox Loader Changelog
+
+## Version 1.4 - (April 20, 2025)
+- Added error handling and logging
 
 ## Version 1.3 - (April 19, 2025)
 - Added `browser_path.txt` configuration file
