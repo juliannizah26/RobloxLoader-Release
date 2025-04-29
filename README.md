@@ -44,28 +44,6 @@ Contoh pemindahan manual:
 Cukup jalankan ulang `z_RobloxServer.bat`
 
 -----------------------------------------
-⚠️ CATATAN PENTING:
------------------------------------------
-
-🖥️ Mode Peluncuran (Launcher atau Browser):
-RobloxLoader dapat dijalankan melalui launcher atau browser tergantung pengaturan.
-
-🔧 **Konfigurasi Peluncuran via `browser_path.txt`:**
-
-1. Buat file bernama `browser_path.txt` di direktori utama RobloxLoader.
-2. Isi file tersebut berdasarkan preferensi:
-
-- **Gunakan launcher Roblox bawaan:**
-Isi dengan false atau biarkan file kosong
-
-- **Gunakan browser default di sistem:**
-Isi dengan true
-
-- **Gunakan browser tertentu:**
-Isi dengan path lengkap ke browser pilihan:
-Contoh C:\Program Files\Google\Chrome\Application\chrome.exe
-
------------------------------------------
 📌 Update & Info Lebih Lanjut:
 -----------------------------------------
 
