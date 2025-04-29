@@ -1,6 +1,11 @@
-latest_version=1.4
-download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.4/update.zip
+latest_version=1.5
+download_url=https://github.com/juliannizah26/RobloxLoader-Realease/releases/download/v1.5/update.zip
 # Roblox Loader Changelog
+
+## Version 1.5 - (April 30, 2025)
+- Updated application icon to custom icon instead of default Tkinter icon
+- Added Settings UI with options to select Roblox launch mode (Launcher, Default Browser, Custom Browser)
+- Implemented functionality for Settings UI to save and apply user preferences
 
 ## Version 1.4 - (April 20, 2025)
 - Added error handling and logging
